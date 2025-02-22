@@ -10,7 +10,7 @@
 - **PHP**
 
 ## 📚 Seções do Site
-
+- **🏠 Home page**
 - **🏛️ Our history**  
 - **📸 Gallery**  
 - **📞 Contact us**  
@@ -22,7 +22,15 @@
 - Navegação fácil para encontrar rapidamente as informações de que você precisa 🧭
 
 ## Imagens do Projeto
+# Home page:
+![Descrição da Imagem](imagensprojeto/home.jpeg)
+![Descrição da Imagem](imagensprojeto/home2.jpeg)
 
+# History page:
+![Descrição da Imagem](imagensprojeto/history.jpeg)
+
+# Gallery page:
+![Descrição da Imagem](imagensprojeto/gallery.jpeg)
 
 
 
